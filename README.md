@@ -48,5 +48,4 @@
 - Instant Win
 - Skin Unlocker
 - Infinite Energy
-
 - Skip Dialog
