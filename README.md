@@ -1,10 +1,19 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.imgur.com/fK3za0H.png">
-</p><p align="center">
- <a href="https://discord.gg/dV9j8zTp"><img src="https://img.shields.io/discord/1449064327494635573?label=Discord&logo=discord&style=for-the-badge&color=blue"></a>
-</p><h1 align="center">Getting Started</h1>
+
+<h1 align="center">Jawir-HI3 (NA & EU SERVER ONLY)</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/fK3za0H.png" />
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/dV9j8zTp">
+    <img src="https://img.shields.io/discord/1449064327494635573?label=Discord&logo=discord&style=for-the-badge&color=blue">
+  </a>
+</p>
+
+<h1 align="center">Getting Started</h1>
 
 ## Usage
-
 1. Download the latest release (`Jawir-HI3.rar`).
 2. Extract the file to your desired folder.
 3. Launch the application.
@@ -14,7 +23,6 @@
 <h1 align="center">Features</h1>
 
 ## Player
-
 - God Mode
 - Character Attack Speed
 - One Hit Kill
@@ -23,18 +31,15 @@
 - Infinite Swap
 
 ## World
-
 - Global Speed
 - Dumb Enemies
 
 ## Visual
-
 - Custom POV
 - Peeking
 - FPS Indicator
 
 ## Misc
-
 - Key Bind Menu (INSERT DEFAULT)
 - Config
 - Fast Exit
@@ -43,7 +48,6 @@
 <h1 align="center">Development Status</h1>
 
 ## WIP (Work in Progress)
-
 - Kill Aura
 - Instant Win
 - Skin Unlocker
