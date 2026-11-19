@@ -28,6 +28,8 @@
 - Infinite Swap
 
 ## World
+- Instant Win
+- Kill Aura
 - Global Speed
 - Dumb Enemies
 
@@ -45,8 +47,5 @@
 <h1 align="center">Development Status</h1>
 
 ## WIP (Work in Progress)
-- Kill Aura
-- Instant Win
-- Skin Unlocker
 - Infinite Energy
 - Skip Dialog
