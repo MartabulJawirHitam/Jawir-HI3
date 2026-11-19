@@ -1,6 +1,3 @@
-
-<h1 align="center">Jawir-HI3 (NA & EU SERVER ONLY)</h1>
-
 <p align="center">
   <img src="https://i.imgur.com/fK3za0H.png" />
 </p>
